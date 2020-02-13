@@ -1,0 +1,1 @@
+console.log("module1 en cours de chargement");
